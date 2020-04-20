@@ -12,8 +12,8 @@ IDE: Spyder (within Anaconda)
 Files:
 
 - iris.xlsx 
-- shengassignment1.py
-- sheng_assignment1_writeup.pdf
+- FeatureRanking.py
+- Outlier Removal and Feature Ranking Writeup.pdf
 
 
 Output:
