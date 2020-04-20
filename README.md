@@ -7,7 +7,7 @@ Program Contents:
 
 Language & Version: Python 3.7.0
 
-IDE: Spyder (within Anaconda)
+Developed within Spyder
 
 Files:
 
