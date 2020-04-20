@@ -13,7 +13,7 @@ Files:
 
 - iris.xlsx 
 - FeatureRanking.py
-- Outlier Removal and Feature Ranking Writeup.pdf
+- Outlier_Removal_and_Feature_Ranking_Writeup.pdf
 
 
 Output:
